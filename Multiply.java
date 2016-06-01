@@ -28,5 +28,3 @@ public class Multiply {
 
 // TODO code application logic here1010
 }
-
-}
